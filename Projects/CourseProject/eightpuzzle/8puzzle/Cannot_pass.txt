@@ -1,0 +1,59 @@
+Can not pass test:
+
+1, puzzle3x3-10
+2, puzzle3x3-11
+3, puzzle3x3-13
+4, puzzle3x3-14
+5, puzzle3x3-16
+7, puzzle3x3-17
+8, puzzle3x3-18
+9, puzzle3x3-20
+10, puzzle3x3-21
+11, puzzle3x3-22
+12, puzzle3x3-23
+13, puzzle3x3-24
+14, puzzle3x3-25
+15, puzzle3x3-26
+16, puzzle3x3-27
+17, puzzle3x3-28
+18, puzzle3x3-29
+19, puzzle3x3-31
+20, puzzle3x3-unsolvable
+21, puzzle3x3-unsolvable1
+22, puzzle3x3-unsolvable2
+
+23, puzzle4x4-06
+24, puzzle4x4-07
+25, puzzle4x4-09
+26, puzzle4x4-10
+26, puzzle4x4-11
+26, puzzle4x4-12
+26, puzzle4x4-13
+26, puzzle4x4-14
+26, puzzle4x4-15
+26, puzzle4x4-17
+26, puzzle4x4-18
+26, puzzle4x4-19
+26, puzzle4x4-21
+26, puzzle4x4-21
+26, puzzle4x4-22
+26, puzzle4x4-23
+26, puzzle4x4-24
+26, puzzle4x4-25
+26, puzzle4x4-26
+26, puzzle4x4-27
+26, puzzle4x4-28
+26, puzzle4x4-29
+26, puzzle4x4-30
+26, puzzle4x4-31
+26, puzzle4x4-32
+26, puzzle4x4-33
+26, puzzle4x4-34
+26, puzzle4x4-35 ~ 50
+26, puzzle4x4-78
+26, puzzle4x4-80
+    puzzle4x4-unsolvable
+
+
+
+
