@@ -164,6 +164,8 @@ public class Deque<Item> implements Iterable<Item> {
 	int count;
 	
 	public static void main(String[] args) {
+		System.out.println("Creating a test case");
+		
 		Deque<String> list = new Deque<String>();
 		list.addFirst("you");
 		list.addFirst("me");
